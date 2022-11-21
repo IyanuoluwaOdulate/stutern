@@ -1,0 +1,83 @@
+
+body {
+  background-color: rgb(69, 69, 151);
+}
+
+img {
+  width: 320px;
+  height: 300px;
+  margin-left: 100px;
+  border-style: dashed;
+  border-color: rgb(69, 69, 151);
+  
+}
+
+.container {
+  background-color: aliceblue;
+  margin: 30px;
+  height: 700px;
+}
+
+.navbar{
+    margin: 5px;
+   
+}
+
+
+.name{
+    font-weight: bold;
+    color: rgb(69, 69, 151);
+    padding-top: 5px;
+    margin-left: 10px;
+}
+    
+.navbar a{
+    background-color: rgb(69, 69, 151);
+    float: right;
+    color: aliceblue;
+    text-align: center;
+    padding: 10px 12px;
+    text-decoration: none;
+    margin: 10px;
+    margin-top: -30px;
+}
+
+h1{
+    color: rgb(69, 69, 151);
+    margin-left: 60px;
+    font-size: 50px;
+    margin-top: 40px;
+    
+}
+
+.body {
+  margin-top: 90px;
+  margin-left: 60px;
+  margin-right: 60px;
+  display: flex;
+  justify-content: space-between;
+}
+
+
+.text{
+    margin-left: 60px;
+    width: 500px;
+}
+
+.below{
+    float: left;
+    margin: 10px;
+    width: 500px;
+    margin-left: 150px;
+    margin-top: 50px;
+}
+
+.skillset{
+    float: right;
+    margin-right: 200px;
+    margin-top: 50px;
+}
+
+h3{
+    color: rgb(69, 69, 151);
+}
